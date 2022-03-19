@@ -1,0 +1,64 @@
+item { 
+	name:'good'
+	id:1
+}
+item { 
+	name:'bad'
+	id:2
+}
+item { 
+	name:'ThankYou'
+	id:3
+}
+item { 
+	name:'LiveLong'
+	id:4
+}
+item { 
+	name:'onion'
+	id:5
+}
+item { 
+	name:'sizords'
+	id:6
+}
+item { 
+	name:'iPhone'
+	id:7
+}
+item { 
+	name:'CoolGuy'
+	id:8
+}
+item { 
+	name:'cash'
+	id:9
+}
+item { 
+	name:'egg'
+	id:10
+}
+item { 
+	name:'water'
+	id:11
+}
+item { 
+	name:'passport'
+	id:12
+}
+item { 
+	name:'plant'
+	id:13
+}
+item { 
+	name:'mask'
+	id:14
+}
+item { 
+	name:'cup'
+	id:15
+}
+item { 
+	name:'wallet'
+	id:16
+}
