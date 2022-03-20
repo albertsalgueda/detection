@@ -1,0 +1,26 @@
+<annotation>
+	<folder>thankyou</folder>
+	<filename>thankyou.55c59304-a659-11ec-afce-8c8590263dcc.jpg</filename>
+	<path>/Users/albertsalgueda/Desktop/detection/assets/images/thankyou/thankyou.55c59304-a659-11ec-afce-8c8590263dcc.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ThankYou</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>358</xmin>
+			<ymin>404</ymin>
+			<xmax>896</xmax>
+			<ymax>696</ymax>
+		</bndbox>
+	</object>
+</annotation>

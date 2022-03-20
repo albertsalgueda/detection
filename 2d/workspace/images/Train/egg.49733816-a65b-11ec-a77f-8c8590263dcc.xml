@@ -1,0 +1,26 @@
+<annotation>
+	<folder>egg</folder>
+	<filename>egg.49733816-a65b-11ec-a77f-8c8590263dcc.jpg</filename>
+	<path>/Users/albertsalgueda/Desktop/detection/assets/images/egg/egg.49733816-a65b-11ec-a77f-8c8590263dcc.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>egg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>785</xmin>
+			<ymin>390</ymin>
+			<xmax>915</xmax>
+			<ymax>500</ymax>
+		</bndbox>
+	</object>
+</annotation>

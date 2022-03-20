@@ -1,0 +1,26 @@
+<annotation>
+	<folder>onion</folder>
+	<filename>onion.77ad5ab8-a65b-11ec-a77f-8c8590263dcc.jpg</filename>
+	<path>/Users/albertsalgueda/Desktop/detection/assets/images/onion/onion.77ad5ab8-a65b-11ec-a77f-8c8590263dcc.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>onion</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>240</xmin>
+			<ymin>252</ymin>
+			<xmax>458</xmax>
+			<ymax>417</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>iPhone</folder>
+	<filename>iPhone.49b09248-a65a-11ec-af21-8c8590263dcc.jpg</filename>
+	<path>/Users/albertsalgueda/Desktop/detection/assets/images/iPhone/iPhone.49b09248-a65a-11ec-af21-8c8590263dcc.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>iPhone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>249</xmin>
+			<ymin>293</ymin>
+			<xmax>461</xmax>
+			<ymax>653</ymax>
+		</bndbox>
+	</object>
+</annotation>

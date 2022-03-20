@@ -1,0 +1,26 @@
+<annotation>
+	<folder>water</folder>
+	<filename>water.22d09f5e-a65c-11ec-90af-8c8590263dcc.jpg</filename>
+	<path>/Users/albertsalgueda/Desktop/detection/assets/images/water/water.22d09f5e-a65c-11ec-90af-8c8590263dcc.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>water</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>609</xmin>
+			<ymin>79</ymin>
+			<xmax>759</xmax>
+			<ymax>614</ymax>
+		</bndbox>
+	</object>
+</annotation>
